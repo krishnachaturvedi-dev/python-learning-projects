@@ -9,14 +9,7 @@ This repository contains projects and exercises I build while learning Python.
 
 ## Projects
 
-### Movie Ticket Booking Calculator
-Calculates ticket costs based on user input.
-
-### Caesar Cipher
-Encrypts and decrypts messages using a shift cipher.
-
-### Travel Weather Planner
-A beginner Python project for planning travel based on weather conditions.
+coming soon
 
 ## Goals
 - Strengthen Python fundamentals
